@@ -1,4 +1,4 @@
-# Slackbot-1
+# Slackbot
 <hi align="center">I'm Panpan <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="60px" alt="hi"><br>See Haii!</h1>
 
 <p align="center">
@@ -28,7 +28,7 @@
 
 - 👀 I'm currently focusing on **JavaScript**.
 
-- 📝 I'm currently working on [`axfc/apbotv1`](https://github.com/axcap/apbotv1)
+- 📝 I'm currently working on [`bimbelku/Slackbot`](https://github.com/bimbelku/Slackbot)
 
 - 👥 Subscribe channel kami [`YOUTUBE`](https://youtube.com/channel/UCKP-E8RwFkJKhe-9uz0s9RQ)
 

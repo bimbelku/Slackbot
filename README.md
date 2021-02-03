@@ -30,7 +30,7 @@
 
 - 📝 I'm currently working on [`bimbelku/Slackbot`](https://github.com/bimbelku/Slackbot)
 
-- 👥 Subscribe channel kami [`YOUTUBE`](https://youtube.com/channel/UCKP-E8RwFkJKhe-9uz0s9RQ)
+- 👥 Subscribe channel kami [`YOUTUBE`](https://m.youtube.com/channel/UCaUz7xW_6G63JoYI7YFQ1kw)
 
   <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Mario_Gameplay.gif"/>
 

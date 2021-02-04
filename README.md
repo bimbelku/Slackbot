@@ -10,7 +10,7 @@
 <a href="#"><img title="ðŸŠSLACKBOTðŸŠ" src="https://img.shields.io/badge/PANPAN-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="https://github.com/bimbelku"><img title="Author" src="https://img.shields.io/badge/PESAN  - BERMAIN TERMUX TIDAK AKAN MEMBUAT ANDA TERLIHAT SEPERTI HEACKER -orange.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/bimbelku"><img title="Author" src="https://img.shields.io/badge/PESAN  - BERMAIN TERMUX TIDAK AKAN MEMBUAT ANDA TERLIHAT SEPERTI HACKER -orange.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
 <a href="https://github.com/Ramlan666/sadbotv3/followers"><img title="Followers" src="https://img.shields.io/github/followers/Ramlan666?color=blue&style=flat-square"></a>

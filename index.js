@@ -105,8 +105,8 @@ const vcard = 'BEGIN:VCARD\n' // metadata of the contact card
             + 'END:VCARD'
 prefix = '#'
 blocked = []
-limitawal = '500'
-cr = '*APBOT SUDAH TERVERIFIKASI*'
+limitawal = '20'
+cr = '*SLACKBOT SUDAH TERVERIFIKASI*'
 
 // Functions
 const getLevelingXp = (userId) => {
